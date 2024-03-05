@@ -1,4 +1,58 @@
+/* Inicio Navbar */ 
+.navbar-dark .navbar-nav .nav-link {
+    color: whitesmoke; /* Replace with your desired color */
+    font-family: sans-serif; /* Replace with your desired font-family */
+    font-size: 18px;
+    
 
+  }
+
+
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color: yellow; /* Replace with your desired hover color */
+
+  }
+
+  .navbar-brand{
+    font-size: 30px !important;
+  }
+
+ .arquitectos{
+    color: yellow !important;
+ }
+
+
+
+/* Fin Navbar */ 
+
+
+/* Inicio Slider */ 
+.carousel-item {
+    max-height: 2150px;
+    max-width: 2150px;
+    overflow: hidden;
+  }
+  
+  .carousel-item img {
+    height: 550px;
+
+  }
+
+  
+  /* Fin Slider */ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
